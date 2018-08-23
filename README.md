@@ -10,6 +10,8 @@ Solo hay estas posibles respuestas:
 ## 1-  Parcialmente
 ## 2 - Siempre
 
+NOTA: Es un ingles de preparatoria, **vealo del lado flexible, no se desanime** mas de 1 millon de personas ha hecho esta encuesta, se sorprenderà de los resultados.
+
 En el tabulador de la hoja de Excel o versión pagina web, ofrece al terminar las 70 preguntas un diagrama de tendencias de preferencias 
 
 # Al Finalizar
