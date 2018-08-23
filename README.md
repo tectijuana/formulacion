@@ -8,3 +8,7 @@ Responda 70 preguntas para comprender sus propios estilos personales.
 ## 2 - Siempre
 
 En el tabulador de la hoja de Excel o versión pagina web, ofrece al terminar las 70 preguntas un diagrama de tendencias de preferencias 
+
+# Al Finalizar
+
+Llenar el formulario en https://goo.gl/forms/zTuSn2gpNXNKI62y2
