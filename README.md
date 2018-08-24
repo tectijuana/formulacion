@@ -1,3 +1,4 @@
+23/Agosto
 # Estilos de Aprendizaje
 
 Los estilos de aprendizaje son una forma de ayudarlo a mejorar su calidad de aprendizaje. Al comprender sus propios estilos personales, puede adaptar el proceso de aprendizaje y las técnicas que usa. Este sitio está dedicado a ayudarlo a comprender mejor los estilos de aprendizaje, así como a proporcionar una manera fácil de descubrir sus propios estilos.
@@ -17,3 +18,12 @@ En el tabulador de la hoja de Excel o versión pagina web, ofrece al terminar la
 # Al Finalizar
 
 Llenar el formulario en https://goo.gl/forms/zTuSn2gpNXNKI62y2
+
+
+24/Agosto
+----
+Temario Oficial en http://itvillahermosa.edu.mx/docs/oferta/ingindustrial/temario2010/8semestre/FormulacionyEvaluaciondeProyectos-AED-1030.pdf
+
+Utilizaciòn de Software: diversas paginas web, Excel, PowerPoint o similar, AppSheet.com, y apps para mòvil
+
+Portal para evidenciar:  http://classroom.google.com  (Android, Iphone, Web) solo con correo institucional, recursos, digitalización de materiales, aceptaciòn de trabajos, video evidencias.
